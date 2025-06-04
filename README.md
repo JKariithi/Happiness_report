@@ -49,21 +49,9 @@ The reports review the state of happiness in the world today and show how the ne
 ## 📊 What I Did
 
 - Loaded and explored the dataset
-- Checked the Data for missing data
-- Analyzed trends by country and region (e.g. East Africa)
-- Visualized key factors like GDP, health, and freedom
+- Checked the Data for missing values
+- Explored the data
+- Visualized the Data.
+- Drew conclusions from the information gathered.
 
 ---
-
-
-## 💡 What I Learned
-
-- How to load and explore a real-world dataset
-- How different factors affect a country's happiness
-- Basics of data visualization and EDA in Python
-
----
-
-
-
-
